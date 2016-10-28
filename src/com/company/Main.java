@@ -8,7 +8,7 @@ public class Main {
         // write your code here
         String names[] = new String[100];
         int grades[] = new int[100];
-        int sum= 0;
+        int sum= 00;
         System.out.println("Please enter the grades that you'd like to use\nWhen completed, please type (done)");
         Scanner listNames = new Scanner(System.in);
         for (int i = 0; i < grades.length; i++) {
